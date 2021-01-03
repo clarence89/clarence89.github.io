@@ -20,7 +20,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Clarence Advincula Baluyot</span>
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="" /></span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://avatars0.githubusercontent.com/u/61017965?s=400&u=90b61602288a2ebd565659c6991ef7d7bc44f270&v=4" alt="" /></span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -77,18 +77,14 @@
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
-                            <p>GPA: 3.23</p>
+                            <h3 class="mb-0">Polytechnic University of the Philippines</h3>
+                            <div class="subheading mb-3">Bachelor of Science in Information Technology</div>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2018 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
-                            <p>GPA: 3.56</p>
+                            <h3 class="mb-0">Mariveles National High School - Poblacion</h3>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
                     </div>
@@ -110,6 +106,8 @@
                         <li class="list-inline-item"><i class="fab fa-python"></i></li>
                         <li class="list-inline-item"><i class="fab fa-laravel"></i></li>
                         <li class="list-inline-item"><i class="fab fa-npm"></i></li>
+                        <li class="list-inline-item"><img height="48px" src="https://florwranx4-flywheel.netdna-ssl.com/wp-content/uploads/2017/06/bit-icon-c-gray.png" alt=""></li>
+                        <li class="list-inline-item"><img height="48px" src="data:image/png;base64,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" alt=""></li>
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
